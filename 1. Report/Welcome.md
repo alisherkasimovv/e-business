@@ -16,9 +16,29 @@ _Your task is:_
 * To create an E-marketing strategy to start your business online. You should create requirements for the company that will start your strategy implementation process.
 * To clarify each step of your strategy, explain what kind of technologies will be used.
 
+## Preface
+
+### Description
+
+| | |
+|---:|---|
+| **Niche** | Bookstore/Bookshop |
+| **Geolocation** | United Kingdom, London |
+| **Goals** | Providing affordable and quality book products for the population (individuals) via local physical shops and via digital platforms (offering higher quality service, but with a more favourable price than competitors).<br><br>Reach 10% of the population of country, making at least 40% of them active clients of the bookstore |
+
+### Contributors
+
+| Student name | Student_ID | Topic |
+|---|:---:|---|
+| Alisher Kosimov | 241ADM003 | Website Development, SEO |
+| Artūrs Eiduks | 161RDB044 | Content Marketing |
+| Linda Luīze Barbare | 221RKM001 | Email Marketing |
+| Nijat Murshudov | 231ADM070 | Paid Advertisements |
+| Seyedahmad Madani | | Social Media Marketing |
+
 ## Main Sections
 
-### 1. Website Development - Alisher Kosimov
+### 1. Website Development
 
 * [User-Friendly Design](./1.%20Website%20Development/User-Friendly%20Design.md)
 * [Responsive Design](./1.%20Website%20Development/Responsive%20Design.md)
@@ -27,7 +47,7 @@ _Your task is:_
 * [Analytics Integration](./1.%20Website%20Development/Analytics%20Integration.md)
 * [Secure and Trustworthy](./1.%20Website%20Development/Secure%20and%20Trustworthy.md)
 
-### 2. SEO - Alisher Kosimov
+### 2. SEO
 
 * [Keyword Research](./2.%20SEO/Keyword%20Research.md)
 * [On-Page SEO]
@@ -35,7 +55,7 @@ _Your task is:_
 * [Content Optimization](./2.%20SEO/Content%20Optimization.md)
 * [Link Building](./2.%20SEO/Link%20Building.md)
 
-### 3. Paid Advertisements - Nijat Murshudov
+### 3. Paid Advertisements
 
 * [Targeting](./3.%20Paid%20Advertisements/Targeting.md)
 * [Ad Creation](./3.%20Paid%20Advertisements/Ad%20Creation.md)
@@ -43,7 +63,7 @@ _Your task is:_
 * [Visuals for Websites](./3.%20Paid%20Advertisements/Visuals%20for%20Website.md)
 * [A/B Testing](./3.%20Paid%20Advertisements/AB%20Testing.md)
 
-### 4. Social Media Marketing - Seyedahmad Madani
+### 4. Social Media Marketing
 
 * [Platform Selection](./4.%20Social%20Media%20Marketing/Platform%20Selection.md)
 * [Content Calendar](./4.%20Social%20Media%20Marketing/Content%20Calendar.md)
@@ -51,7 +71,7 @@ _Your task is:_
 * [Influencer Partnerships](./4.%20Social%20Media%20Marketing/Influencer%20Partnerships.md)
 * [Analytics](./4.%20Social%20Media%20Marketing/Analytics.md)
 
-### 5. Content Marketing - Seyedahmad Madani
+### 5. Content Marketing
 
 * [Content Strategy](./5.%20Content%20Marketing/Content%20Strategy.md)
 * [Quality Content](./5.%20Content%20Marketing/Quality%20Content.md)
@@ -59,7 +79,7 @@ _Your task is:_
 * [Content Distribution](./5.%20Content%20Marketing/Content%20Distribution.md)
 * [Repurposing Content](./5.%20Content%20Marketing/Repurposing%20Content.md)
 
-### 6. Email Marketing - Linda Barbare
+### 6. Email Marketing
 
 * [Email List Building](./6.%20Email%20Marketing/Email%20List%20Building.md)
 * [Email Campaigns](./6.%20Email%20Marketing/Email%20Campaigns.md)
